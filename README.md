@@ -109,3 +109,6 @@ scikit-learn: preprocessing, მოდელირება, ჰიპერპ�
 XGBoost: Gradient boosting მოდელი.
 
 MLflow, DagsHub: ექსპერიმენტების და შედეგების დალოგვა.
+
+
+MLflow link: https://dagshub.com/lkata22/house-prices-regression.mlflow
